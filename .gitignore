@@ -1,0 +1,16 @@
+2.23.0'
+.local
+.cache
+.bash*
+.config
+.docker
+.ipy*
+.jupyter
+.profile
+.ssh
+.viminfo
+.wget-hsts
+best.pt
+*.zip
+train
+yolo_datasets
